@@ -1,14 +1,15 @@
 # Lab 12
 
 ## Overview
-
+[Pull Request](https://github.com/Elliron/data-analysis-pandas/tree/data-anaylsis-pandas/vg-stats)
 ## Author
 Glenn Clark
 
 ## Collaboratiobs
 
 ## Credits
-
+https://www.kite.com/python/answers/how-to-make-a-single-pandas-dataframe-from-multiple-%60.csv%60-files-in-python
+- https://pandas.pydata.org/docs/reference/api/pandas.Series.str.split.html
 
 ## Questions
 1. Electronic Arts
@@ -53,3 +54,10 @@ Glenn Clark
     Ultimate Shooting Collection	Wii
 
 6. 903
+
+## bike-stats
+
+1. 1178.2956753399776
+2. 1987
+3. 0.10506531204644412
+4. 0.0
